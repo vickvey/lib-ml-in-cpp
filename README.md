@@ -147,6 +147,10 @@ _Student, Learner, Experimenter_
   <img src="assets/architecture.png" width="500" alt="Architecture Diagram">
 </p>
 
+<p align="center">
+  <img src="assets/terminal_output_1.png" width="500" alt="Output in terminal of algorithm">
+</p>
+
 ---
 
 ## 🤔 Future Ideas
