@@ -57,6 +57,7 @@ This project uses the [**Boston Housing Dataset**](https://www.kaggle.com/datase
 ### 🧪 To Build and Run:
 
 ```bash
+make clean # removes previous builds
 make           # builds the executable
 ./linear_regression   # runs the program
 ```
